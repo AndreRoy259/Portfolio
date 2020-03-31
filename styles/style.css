@@ -45,7 +45,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: #2c2c2c;
+  color: #3f3d56;
 }
 
 .main-head {
@@ -152,7 +152,7 @@ nav ul {
 
 .intro p {
   padding-top: 2rem;
-  color: #2c2c2c;
+  color: #3f3d56;
 }
 
 .splash {
@@ -172,8 +172,8 @@ nav ul {
 }
 
 .active {
-  background: #2c2c2c;
-  color: white;
+  background: #3f3d56;
+  color: #d0cde1;
   padding: 1rem 3rem;
   border-radius: 2rem;
 }
@@ -310,7 +310,7 @@ nav ul {
 }
 
 .form-section {
-  min-height: 80vh;
+  min-height: 90vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -324,7 +324,6 @@ nav ul {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  margin-top: 3rem;
 }
 
 .form-section form {
@@ -365,7 +364,7 @@ nav ul {
 .form-section form button {
   width: 100%;
   padding: 2rem;
-  background: #154353;
+  background: #3f3d56;
   color: white;
 }
 
@@ -374,8 +373,8 @@ nav ul {
 }
 
 footer {
-  background: #154353;
-  color: white;
+  background: #3f3d56;
+  color: #d0cde1;
   min-height: 10vh;
   padding: 0% 5%;
   display: -webkit-box;
@@ -427,7 +426,7 @@ footer h4 {
   svg {
     width: 80%;
   }
-  .nav {
+  nav {
     width: 100%;
   }
 }
@@ -504,7 +503,7 @@ footer h4 {
     height: 100%;
   }
   form {
-    padding: 0;
+    padding: 0rem;
     width: 100%;
   }
 }

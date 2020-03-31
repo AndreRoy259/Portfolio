@@ -1,6 +1,6 @@
 footer {
   background: $background-color;
-  color: white;
+  color: $light-gray-text;
   min-height: 10vh;
   padding: 0% 5%;
   @include flex(flex-start, center, row);
