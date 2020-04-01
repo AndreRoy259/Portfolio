@@ -31,6 +31,7 @@ nav {
     font-size: 8rem;
     padding-top: 2rem;
     background: $gradient;
+    -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
     display: inline-block;
